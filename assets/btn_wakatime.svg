@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="40" viewBox="0 0 136 40" fill="none">
+  <style>
+    text { font-family: ui-monospace, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace; }
+  </style>
+  <rect width="136" height="40" fill="#1a1c2e"/>
+  <rect x="0" y="0" width="136" height="2" fill="#334155"/>
+  <rect x="0" y="0" width="2" height="40" fill="#334155"/>
+  <rect x="0" y="38" width="136" height="2" fill="#06070c"/>
+  <rect x="134" y="0" width="2" height="40" fill="#06070c"/>
+  <g transform="translate(14, 12)" shape-rendering="crispEdges">
+    <rect x="4" y="1" width="8" height="13" fill="#fcee0a"/>
+    <rect x="2" y="3" width="12" height="9" fill="#fcee0a"/>
+    <rect x="4" y="3" width="8" height="9" fill="#080a10"/>
+    <rect x="7" y="4" width="2" height="4" fill="#00f0ff"/>
+    <rect x="7" y="7" width="4" height="2" fill="#ff2a6d"/>
+  </g>
+  <text x="40" y="25" fill="#e2e8f0" font-size="13" font-weight="700">WAKATIME</text>
+</svg>

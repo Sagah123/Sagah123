@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="888" height="228" viewBox="0 0 888 228" fill="none">
+  <defs>
+    <linearGradient id="tb" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1a233a"/>
+      <stop offset="100%" stop-color="#0b0e18"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="none"/>
+      <rect y="2" width="4" height="2" fill="#000000" fill-opacity="0.18"/>
+    </pattern>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace; }
+
+  </style>
+  <!-- Window outer fill & 2px Win95 bevel -->
+  <rect width="888" height="228" fill="#121320"/>
+  <rect x="0" y="0" width="888" height="2" fill="#273047"/>
+  <rect x="0" y="0" width="2" height="228" fill="#273047"/>
+  <rect x="0" y="226" width="888" height="2" fill="#06070c"/>
+  <rect x="886" y="0" width="2" height="228" fill="#06070c"/>
+
+  <!-- Titlebar -->
+  <rect x="2" y="2" width="884" height="26" fill="url(#tb)"/>
+  <rect x="2" y="27" width="884" height="1" fill="#273047"/>
+  <text x="12" y="19" fill="#cbd5e1" font-size="12" font-weight="700">TOOLS // ENVIRONMENT</text>
+  <text x="876" y="19" fill="#64748b" font-size="11" text-anchor="end">9 ITEMS</text>
+
+  <!-- Inset panel -->
+  <rect x="10" y="34" width="868" height="184" fill="#080a10"/>
+  <rect x="10" y="34" width="868" height="2" fill="#040508"/>
+  <rect x="10" y="34" width="2" height="184" fill="#040508"/>
+  <rect x="10" y="216" width="868" height="2" fill="#273047"/>
+  <rect x="876" y="34" width="2" height="184" fill="#273047"/>
+  <rect x="24" y="44" width="272" height="48" fill="#121320" stroke="#1e293b"/>
+  <rect x="24" y="44" width="272" height="1" fill="#273047"/>
+  <g transform="translate(38, 54) scale(1.75)" shape-rendering="crispEdges">
+
+      <rect x="2" y="3" width="5" height="2" fill="#00f0ff"/>
+      <rect x="1" y="4" width="2" height="8" fill="#00f0ff"/>
+      <rect x="2" y="11" width="5" height="2" fill="#00f0ff"/>
+      <rect x="6" y="4" width="1" height="2" fill="#00f0ff"/>
+      <rect x="6" y="10" width="1" height="2" fill="#00f0ff"/>
+      <rect x="9" y="6" width="1" height="4" fill="#ff2a6d"/>
+      <rect x="8" y="7" width="3" height="2" fill="#ff2a6d"/>
+      <rect x="13" y="6" width="1" height="4" fill="#ff2a6d"/>
+      <rect x="12" y="7" width="3" height="2" fill="#ff2a6d"/>
+  </g>
+  <text x="80" y="73" fill="#e2e8f0" font-size="14" font-weight="700">C++</text>
+  <rect x="308" y="44" width="272" height="48" fill="#121320" stroke="#1e293b"/>
+  <rect x="308" y="44" width="272" height="1" fill="#273047"/>
+  <g transform="translate(322, 54) scale(1.75)" shape-rendering="crispEdges">
+
+      <rect x="5" y="3" width="6" height="2" fill="#00f0ff"/>
+      <rect x="4" y="4" width="2" height="8" fill="#00f0ff"/>
+      <rect x="5" y="11" width="6" height="2" fill="#00f0ff"/>
+      <rect x="10" y="4" width="2" height="2" fill="#00f0ff"/>
+      <rect x="10" y="10" width="2" height="2" fill="#00f0ff"/>
+  </g>
+  <text x="364" y="73" fill="#e2e8f0" font-size="14" font-weight="700">C</text>
+  <rect x="592" y="44" width="272" height="48" fill="#121320" stroke="#1e293b"/>
+  <rect x="592" y="44" width="272" height="1" fill="#273047"/>
+  <g transform="translate(606, 54) scale(1.75)" shape-rendering="crispEdges">
+
+      <rect x="4" y="2" width="6" height="5" fill="#00f0ff"/>
+      <rect x="5" y="3" width="1" height="1" fill="#080a10"/>
+      <rect x="2" y="5" width="4" height="5" fill="#00f0ff"/>
+      <rect x="6" y="9" width="6" height="5" fill="#fcee0a"/>
+      <rect x="10" y="12" width="1" height="1" fill="#080a10"/>
+      <rect x="10" y="6" width="4" height="5" fill="#fcee0a"/>
+  </g>
+  <text x="648" y="73" fill="#e2e8f0" font-size="14" font-weight="700">Python</text>
+  <rect x="24" y="102" width="272" height="48" fill="#121320" stroke="#1e293b"/>
+  <rect x="24" y="102" width="272" height="1" fill="#273047"/>
+  <g transform="translate(38, 112) scale(1.75)" shape-rendering="crispEdges">
+
+      <rect x="5" y="1" width="1" height="2" fill="#fcee0a"/>
+      <rect x="8" y="1" width="1" height="2" fill="#fcee0a"/>
+      <rect x="10" y="1" width="1" height="2" fill="#fcee0a"/>
+      <rect x="5" y="13" width="1" height="2" fill="#fcee0a"/>
+      <rect x="8" y="13" width="1" height="2" fill="#fcee0a"/>
+      <rect x="10" y="13" width="1" height="2" fill="#fcee0a"/>
+      <rect x="1" y="5" width="2" height="1" fill="#fcee0a"/>
+      <rect x="1" y="8" width="2" height="1" fill="#fcee0a"/>
+      <rect x="1" y="10" width="2" height="1" fill="#fcee0a"/>
+      <rect x="13" y="5" width="2" height="1" fill="#fcee0a"/>
+      <rect x="13" y="8" width="2" height="1" fill="#fcee0a"/>
+      <rect x="13" y="10" width="2" height="1" fill="#fcee0a"/>
+      <rect x="3" y="3" width="10" height="10" fill="#1e293b"/>
+      <rect x="4" y="4" width="8" height="8" fill="#080a10"/>
+      <rect x="5" y="5" width="1" height="1" fill="#ff2a6d"/>
+      <rect x="6" y="7" width="4" height="3" fill="#00f0ff"/>
+      <rect x="7" y="8" width="2" height="1" fill="#080a10"/>
+  </g>
+  <text x="80" y="131" fill="#e2e8f0" font-size="14" font-weight="700">STM32</text>
+  <rect x="308" y="102" width="272" height="48" fill="#121320" stroke="#1e293b"/>
+  <rect x="308" y="102" width="272" height="1" fill="#273047"/>
+  <g transform="translate(322, 112) scale(1.75)" shape-rendering="crispEdges">
+
+      <rect x="7" y="2" width="2" height="4" fill="#ff2a6d"/>
+      <rect x="5" y="6" width="6" height="3" fill="#00f0ff"/>
+      <rect x="3" y="9" width="4" height="4" fill="#00f0ff"/>
+      <rect x="9" y="9" width="4" height="4" fill="#fcee0a"/>
+      <rect x="5" y="12" width="6" height="2" fill="#ff2a6d"/>
+  </g>
+  <text x="364" y="131" fill="#e2e8f0" font-size="14" font-weight="700">CMake</text>
+  <rect x="592" y="102" width="272" height="48" fill="#121320" stroke="#1e293b"/>
+  <rect x="592" y="102" width="272" height="1" fill="#273047"/>
+  <g transform="translate(606, 112) scale(1.75)" shape-rendering="crispEdges">
+
+      <rect x="7" y="1" width="2" height="2" fill="#fcee0a"/>
+      <rect x="7" y="13" width="2" height="2" fill="#fcee0a"/>
+      <rect x="1" y="7" width="2" height="2" fill="#fcee0a"/>
+      <rect x="13" y="7" width="2" height="2" fill="#fcee0a"/>
+      <rect x="3" y="3" width="2" height="2" fill="#fcee0a"/>
+      <rect x="11" y="3" width="2" height="2" fill="#fcee0a"/>
+      <rect x="3" y="11" width="2" height="2" fill="#fcee0a"/>
+      <rect x="11" y="11" width="2" height="2" fill="#fcee0a"/>
+      <rect x="4" y="3" width="8" height="10" fill="#fcee0a"/>
+      <rect x="3" y="4" width="10" height="8" fill="#fcee0a"/>
+      <rect x="5" y="5" width="6" height="6" fill="#080a10"/>
+      <rect x="7" y="6" width="2" height="4" fill="#00f0ff"/>
+      <rect x="6" y="7" width="4" height="2" fill="#00f0ff"/>
+      <rect x="7" y="7" width="2" height="2" fill="#ff2a6d"/>
+  </g>
+  <text x="648" y="131" fill="#e2e8f0" font-size="14" font-weight="700">GCC / GDB</text>
+  <rect x="24" y="160" width="272" height="48" fill="#121320" stroke="#1e293b"/>
+  <rect x="24" y="160" width="272" height="1" fill="#273047"/>
+  <g transform="translate(38, 170) scale(1.75)" shape-rendering="crispEdges">
+
+      <rect x="4" y="3" width="2" height="10" fill="#ff2a6d"/>
+      <rect x="3" y="3" width="4" height="2" fill="#ff2a6d"/>
+      <rect x="3" y="11" width="4" height="2" fill="#ff2a6d"/>
+      <rect x="6" y="7" width="4" height="2" fill="#00f0ff"/>
+      <rect x="10" y="5" width="3" height="4" fill="#00f0ff"/>
+  </g>
+  <text x="80" y="189" fill="#e2e8f0" font-size="14" font-weight="700">Git</text>
+  <rect x="308" y="160" width="272" height="48" fill="#121320" stroke="#1e293b"/>
+  <rect x="308" y="160" width="272" height="1" fill="#273047"/>
+  <g transform="translate(322, 170) scale(1.75)" shape-rendering="crispEdges">
+
+      <rect x="11" y="1" width="2" height="14" fill="#8ef9ff"/>
+      <rect x="12" y="2" width="2" height="12" fill="#00f0ff"/>
+      <rect x="9" y="2" width="2" height="2" fill="#00f0ff"/>
+      <rect x="7" y="4" width="2" height="2" fill="#00f0ff"/>
+      <rect x="5" y="6" width="2" height="4" fill="#00f0ff"/>
+      <rect x="7" y="10" width="2" height="2" fill="#00f0ff"/>
+      <rect x="9" y="12" width="2" height="2" fill="#00f0ff"/>
+      <rect x="3" y="4" width="2" height="2" fill="#00b4d8"/>
+      <rect x="2" y="5" width="2" height="1" fill="#00b4d8"/>
+      <rect x="3" y="10" width="2" height="2" fill="#00b4d8"/>
+      <rect x="2" y="10" width="2" height="1" fill="#00b4d8"/>
+      <rect x="4" y="7" width="2" height="2" fill="#ff2a6d"/>
+  </g>
+  <text x="364" y="189" fill="#e2e8f0" font-size="14" font-weight="700">VS Code</text>
+  <rect x="592" y="160" width="272" height="48" fill="#121320" stroke="#1e293b"/>
+  <rect x="592" y="160" width="272" height="1" fill="#273047"/>
+  <g transform="translate(606, 170) scale(1.75)" shape-rendering="crispEdges">
+
+      <rect x="7" y="1" width="2" height="2" fill="#00f0ff"/>
+      <rect x="6" y="3" width="4" height="2" fill="#00f0ff"/>
+      <rect x="7" y="2" width="1" height="2" fill="#8ef9ff"/>
+      <rect x="6" y="4" width="1" height="2" fill="#8ef9ff"/>
+      <rect x="5" y="5" width="6" height="2" fill="#00f0ff"/>
+      <rect x="4" y="7" width="8" height="2" fill="#00f0ff"/>
+      <rect x="5" y="6" width="1" height="2" fill="#8ef9ff"/>
+      <rect x="4" y="8" width="1" height="2" fill="#8ef9ff"/>
+      <rect x="3" y="9" width="10" height="1" fill="#00f0ff"/>
+      <rect x="2" y="10" width="5" height="1" fill="#00f0ff"/>
+      <rect x="9" y="10" width="5" height="1" fill="#00f0ff"/>
+      <rect x="2" y="11" width="4" height="1" fill="#00f0ff"/>
+      <rect x="10" y="11" width="4" height="1" fill="#00f0ff"/>
+      <rect x="1" y="12" width="4" height="1" fill="#00f0ff"/>
+      <rect x="11" y="12" width="4" height="1" fill="#00f0ff"/>
+      <rect x="1" y="13" width="3" height="1" fill="#00f0ff"/>
+      <rect x="12" y="13" width="3" height="1" fill="#00f0ff"/>
+      <rect x="0" y="14" width="2" height="1" fill="#ff2a6d"/>
+      <rect x="14" y="14" width="2" height="1" fill="#ff2a6d"/>
+  </g>
+  <text x="648" y="189" fill="#e2e8f0" font-size="14" font-weight="700">Linux</text>
+  <rect x="12" y="36" width="864" height="180" fill="url(#scan)"/>
+</svg>

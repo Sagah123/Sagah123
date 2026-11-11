@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="438" height="198" viewBox="0 0 438 198" fill="none">
+  <defs>
+    <linearGradient id="tb" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1a233a"/>
+      <stop offset="100%" stop-color="#0b0e18"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="none"/>
+      <rect y="2" width="4" height="2" fill="#000000" fill-opacity="0.18"/>
+    </pattern>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .blink { animation: blink 1.1s steps(1, end) infinite; }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0.25; } }
+  </style>
+  <!-- Window outer fill & 2px Win95 bevel -->
+  <rect width="438" height="198" fill="#121320"/>
+  <rect x="0" y="0" width="438" height="2" fill="#273047"/>
+  <rect x="0" y="0" width="2" height="198" fill="#273047"/>
+  <rect x="0" y="196" width="438" height="2" fill="#06070c"/>
+  <rect x="436" y="0" width="2" height="198" fill="#06070c"/>
+
+  <!-- Titlebar -->
+  <rect x="2" y="2" width="434" height="26" fill="url(#tb)"/>
+  <rect x="2" y="27" width="434" height="1" fill="#273047"/>
+  <text x="12" y="19" fill="#cbd5e1" font-size="12" font-weight="700">wakatime // daily_clock</text>
+  <text x="426" y="19" fill="#64748b" font-size="11" text-anchor="end">AUTO-UPDATED</text>
+
+  <!-- Inset panel -->
+  <rect x="10" y="34" width="418" height="154" fill="#080a10"/>
+  <rect x="10" y="34" width="418" height="2" fill="#040508"/>
+  <rect x="10" y="34" width="2" height="154" fill="#040508"/>
+  <rect x="10" y="186" width="418" height="2" fill="#273047"/>
+  <rect x="426" y="34" width="2" height="154" fill="#273047"/>
+  <g transform="translate(24, 48) scale(2)" shape-rendering="crispEdges">
+    <rect x="3" y="1" width="8" height="12" fill="#00f0ff"/>
+    <rect x="1" y="3" width="12" height="8" fill="#00f0ff"/>
+    <rect x="3" y="3" width="8" height="8" fill="#080a10"/>
+    <rect x="6" y="4" width="2" height="3" fill="#fcee0a"/>
+    <rect x="6" y="7" width="4" height="2" fill="#ff2a6d" class="blink"/>
+  </g>
+  <text x="64" y="59" fill="#94a3b8" font-size="11">TODAY_ACTIVE</text>
+  <text x="64" y="80" fill="#00f0ff" font-size="18" font-weight="700">--<tspan class="blink">:</tspan>-- <tspan fill="#64748b" font-size="12" font-weight="400">hrs</tspan></text>
+  <text x="414" y="59" fill="#94a3b8" font-size="11" text-anchor="end">7D_TOTAL</text>
+  <text x="414" y="79" fill="#fcee0a" font-size="14" font-weight="700" text-anchor="end">--h --m</text>
+  <text x="414" y="92" fill="#64748b" font-size="10" text-anchor="end">SET WAKATIME_API_KEY</text>
+  <line x1="24" y1="98" x2="414" y2="98" stroke="#1e293b" stroke-dasharray="4 4"/>
+  <rect x="24" y="159" width="42" height="4" fill="#1e293b"/>
+  <text x="45" y="179" fill="#64748b" font-size="11" font-weight="400" text-anchor="middle">T</text>
+  <rect x="82" y="159" width="42" height="4" fill="#1e293b"/>
+  <text x="103" y="179" fill="#64748b" font-size="11" font-weight="400" text-anchor="middle">F</text>
+  <rect x="140" y="159" width="42" height="4" fill="#1e293b"/>
+  <text x="161" y="179" fill="#64748b" font-size="11" font-weight="400" text-anchor="middle">S</text>
+  <rect x="198" y="159" width="42" height="4" fill="#1e293b"/>
+  <text x="219" y="179" fill="#64748b" font-size="11" font-weight="400" text-anchor="middle">S</text>
+  <rect x="256" y="159" width="42" height="4" fill="#1e293b"/>
+  <text x="277" y="179" fill="#64748b" font-size="11" font-weight="400" text-anchor="middle">M</text>
+  <rect x="314" y="159" width="42" height="4" fill="#1e293b"/>
+  <text x="335" y="179" fill="#64748b" font-size="11" font-weight="400" text-anchor="middle">T</text>
+  <rect x="372" y="159" width="42" height="4" fill="#1e293b"/>
+  <text x="393" y="179" fill="#00f0ff" font-size="11" font-weight="700" text-anchor="middle">W</text>
+  <rect x="12" y="36" width="414" height="150" fill="url(#scan)"/>
+</svg>

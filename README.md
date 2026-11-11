@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/rain_window.gif" width="49.2%" alt="rain_alley.gif"/> <img src="assets/terminal.svg" width="49.2%" alt="bash — sagah123"/>
+</p>
 
-<!--
-**Sagah123/Sagah123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Sagah123?tab=repositories" title="Repositories"><img src="assets/btn_repos.svg" height="38" alt="Repositories"/></a>
+  <a href="https://t.me/sagah1" title="Telegram @sagah1"><img src="assets/btn_telegram.svg" height="38" alt="Telegram // @sagah1"/></a>
+  <a href="https://wakatime.com" title="WakaTime stats"><img src="assets/btn_wakatime.svg" height="38" alt="WAKATIME"/></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.youtube.com/results?search_query=Chris+Christodoulou+Ashes+to+Ashes+to+Ashes" title="Ashes to Ashes to Ashes // Chris Christodoulou"><img src="assets/audio_player.svg" width="100%" alt="audio_player.exe"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="assets/tools_grid.svg" width="100%" alt="TOOLS // ENVIRONMENT"/>
+</p>
+
+<p align="center">
+  <img src="assets/wakatime_clock.svg" width="49.2%" alt="wakatime // daily_clock"/> <img src="assets/commit_signal.svg" width="49.2%" alt="signal_monitor // commits"/>
+</p>
