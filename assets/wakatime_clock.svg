@@ -41,24 +41,23 @@
     <rect x="6" y="7" width="4" height="2" fill="#ff2a6d" class="blink"/>
   </g>
   <text x="64" y="59" fill="#94a3b8" font-size="11">TODAY_ACTIVE</text>
-  <text x="64" y="80" fill="#00f0ff" font-size="18" font-weight="700">--<tspan class="blink">:</tspan>-- <tspan fill="#64748b" font-size="12" font-weight="400">hrs</tspan></text>
+  <text x="64" y="80" fill="#00f0ff" font-size="18" font-weight="700">02<tspan class="blink">:</tspan>27 <tspan fill="#64748b" font-size="12" font-weight="400">hrs</tspan></text>
   <text x="414" y="59" fill="#94a3b8" font-size="11" text-anchor="end">7D_TOTAL</text>
-  <text x="414" y="79" fill="#fcee0a" font-size="14" font-weight="700" text-anchor="end">--h --m</text>
-  <text x="414" y="92" fill="#64748b" font-size="10" text-anchor="end">SET WAKATIME_API_KEY</text>
+  <text x="414" y="79" fill="#fcee0a" font-size="14" font-weight="700" text-anchor="end">18h 03m</text>
   <line x1="24" y1="98" x2="414" y2="98" stroke="#1e293b" stroke-dasharray="4 4"/>
-  <rect x="24" y="159" width="42" height="4" fill="#1e293b"/>
+  <rect x="24" y="159" width="42" height="4" fill="#00b4d8"/>
   <text x="45" y="179" fill="#64748b" font-size="11" font-weight="400" text-anchor="middle">T</text>
-  <rect x="82" y="159" width="42" height="4" fill="#1e293b"/>
+  <rect x="82" y="109" width="42" height="54" fill="#ff2a6d"/>
   <text x="103" y="179" fill="#64748b" font-size="11" font-weight="400" text-anchor="middle">F</text>
-  <rect x="140" y="159" width="42" height="4" fill="#1e293b"/>
+  <rect x="140" y="159" width="42" height="4" fill="#00b4d8"/>
   <text x="161" y="179" fill="#64748b" font-size="11" font-weight="400" text-anchor="middle">S</text>
-  <rect x="198" y="159" width="42" height="4" fill="#1e293b"/>
+  <rect x="198" y="152" width="42" height="11" fill="#00b4d8"/>
   <text x="219" y="179" fill="#64748b" font-size="11" font-weight="400" text-anchor="middle">S</text>
-  <rect x="256" y="159" width="42" height="4" fill="#1e293b"/>
+  <rect x="256" y="126" width="42" height="37" fill="#00b4d8"/>
   <text x="277" y="179" fill="#64748b" font-size="11" font-weight="400" text-anchor="middle">M</text>
-  <rect x="314" y="159" width="42" height="4" fill="#1e293b"/>
+  <rect x="314" y="155" width="42" height="8" fill="#00b4d8"/>
   <text x="335" y="179" fill="#64748b" font-size="11" font-weight="400" text-anchor="middle">T</text>
-  <rect x="372" y="159" width="42" height="4" fill="#1e293b"/>
+  <rect x="372" y="145" width="42" height="18" fill="#00f0ff"/>
   <text x="393" y="179" fill="#00f0ff" font-size="11" font-weight="700" text-anchor="middle">W</text>
   <rect x="12" y="36" width="414" height="150" fill="url(#scan)"/>
 </svg>
