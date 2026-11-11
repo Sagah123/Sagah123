@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://github.com/Sagah123?tab=repositories" title="Repositories"><img src="assets/btn_repos.svg" height="38" alt="Repositories"/></a>
   <a href="https://t.me/sagah1" title="Telegram @sagah1"><img src="assets/btn_telegram.svg" height="38" alt="Telegram // @sagah1"/></a>
-  <a href="https://wakatime.com" title="WakaTime stats"><img src="assets/btn_wakatime.svg" height="38" alt="WAKATIME"/></a>
 </p>
 
 <p align="center">
