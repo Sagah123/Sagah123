@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/results?search_query=Chris+Christodoulou+Ashes+to+Ashes+to+Ashes" title="Ashes to Ashes to Ashes // Chris Christodoulou"><img src="assets/audio_player.svg" width="100%" alt="audio_player.exe"/></a>
+  <a href="https://www.youtube.com/watch?v=HKmYRsnMsOk&list=RDHKmYRsnMsOk" title="Ashes to Ashes to Ashes // Chris Christodoulou"><img src="assets/audio_player.svg" width="100%" alt="audio_player.exe"/></a>
 </p>
 
 <p align="center">
